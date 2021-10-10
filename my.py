@@ -2,6 +2,6 @@ import time
 import sys
 
 def main():
-    pass
+    print("Hiya")
 
 main()
