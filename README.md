@@ -14,3 +14,4 @@ Hola
 arigato
 dasvidaniya.
 hasta leugo
+hasta manyana
